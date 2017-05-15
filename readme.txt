@@ -1,2 +1,0 @@
-# FirstGit   XXX   yyyy
-
